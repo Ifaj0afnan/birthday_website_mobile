@@ -4,7 +4,7 @@
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/rheinatamara/birthday_website_mobile.git
+   git clone https://github.com/Ifaj0afnan/birthday_website_mobile/
    
    cd birthday_website_mobile
    ```
