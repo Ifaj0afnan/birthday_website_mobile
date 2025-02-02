@@ -1,5 +1,7 @@
 # Birthday Website (mobile version)
-
+you can us it anywhere
+# This Full Programme is coded by Afnan Ifaj And Dedicated To Adiba 
+### Waiting for 10th Nov 
 ### Installation
 
 1. Clone the repository
@@ -26,3 +28,4 @@
 npm run build
 ```
 The production-ready files will be generated in the _dist_ directory.
+Uni jdi raji hoy ....
